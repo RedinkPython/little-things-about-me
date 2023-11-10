@@ -1,3 +1,4 @@
+⚠This was made with all Python, Micro:Bit just make an error!⚠
 
 > Open this page at [https://redinkpython.github.io/little-things-about-me/](https://redinkpython.github.io/little-things-about-me/)
 
